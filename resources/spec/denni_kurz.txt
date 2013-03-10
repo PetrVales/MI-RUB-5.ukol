@@ -1,0 +1,36 @@
+30.01.2013 #21
+země|měna|množství|kód|kurz
+Austrálie|dolar|1|AUD|19,741
+Brazílie|real|1|BRL|9,529
+Bulharsko|lev|1|BGN|13,122
+Čína|renminbi|1|CNY|3,046
+Dánsko|koruna|1|DKK|3,439
+EMU|euro|1|EUR|25,660
+Filipíny|peso|100|PHP|46,633
+Hongkong|dolar|1|HKD|2,442
+Chorvatsko|kuna|1|HRK|3,389
+Indie|rupie|100|INR|35,565
+Indonesie|rupie|1000|IDR|1,956
+Izrael|šekel|1|ILS|5,080
+Japonsko|jen|100|JPY|20,749
+Jihoafrická rep.|rand|1|ZAR|2,093
+Jižní Korea|won|100|KRW|1,742
+Kanada|dolar|1|CAD|18,909
+Litva|litas|1|LTL|7,432
+Lotyšsko|lat|1|LVL|36,704
+Maďarsko|forint|100|HUF|8,669
+Malajsie|ringgit|1|MYR|6,146
+Mexiko|peso|1|MXN|1,491
+MMF|SDR|1|XDR|29,194
+Norsko|koruna|1|NOK|3,451
+Nový Zéland|dolar|1|NZD|15,774
+Polsko|zlotý|1|PLN|6,111
+Rumunsko|nové leu|1|RON|5,853
+Rusko|rubl|100|RUB|63,165
+Singapur|dolar|1|SGD|15,331
+Švédsko|koruna|1|SEK|2,980
+Švýcarsko|frank|1|CHF|20,703
+Thajsko|baht|100|THB|63,737
+Turecko|lira|1|TRY|10,719
+USA|dolar|1|USD|33,333
+Velká Británie|libra|1|GBP|29,902
